@@ -22,8 +22,16 @@ Foi meu primeiro contato com a área de programação. Nesse projeto aprendi:<br
 • Estilização de uma paǵina web; <br>
 • Criação de listas e formulários; <br>
 
+## Screenshots
 
+## Desktop
 
 ![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/P%C3%A1gina1.png)
 ![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/P%C3%A1gina2.png)
 ![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/P%C3%A1gina3.png)
+
+## Mobile
+<p align="center">
+<img width="300px" src="./img/pagina1mobile.png" align="left"></img>
+<img width="300px" src="./img/pagina2mobile.png" align="center"></img>
+<img width="300px" src="./img/pagina3mobile.png" align="right"></img></p>
