@@ -32,6 +32,6 @@ Foi meu primeiro contato com a área de programação. Nesse projeto aprendi:<br
 
 ## Mobile
 <p align="center">
-<img width="300px" src="./img/pagina1mobile.png" align="left"></img>
-<img width="300px" src="./img/pagina2mobile.png" align="center"></img>
-<img width="300px" src="./img/pagina3mobile.png" align="right"></img></p>
+<img width="250" src="./img/pagina1mobile.png" align="left"></img>
+<img width="250" src="./img/pagina2mobile.png" align="center"></img>
+<img width="250" src="./img/pagina3mobile.png" align="right"></img></p>
