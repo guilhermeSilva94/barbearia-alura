@@ -9,9 +9,6 @@ Primeiro projeto da formação HTML e CSS
 | :rocket: URL         | https://barbearia-alura-rho.vercel.app/
 | :fire: Desafio     | -
 
-
-![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/logoSite.png#vitrinedev)
-
 ## Detalhes do projeto
 
 Projeto de um site responsivo de uma barbearia usando HTML e CSS. 
